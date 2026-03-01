@@ -1,0 +1,13 @@
+﻿# repo ignore
+
+MedLens/env
+
+MedLens/.env
+
+MedLens.git.backup
+
+MedLens/node_modules/
+
+MedLens/*.pdf
+
+MedLens/*.pptx
