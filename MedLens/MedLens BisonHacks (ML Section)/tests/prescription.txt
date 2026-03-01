@@ -1,0 +1,23 @@
+PRESCRIPTION SUMMARY
+
+Patient: David Lee
+DOB: 11/04/1990
+Prescribing Provider: Dr. Nguyen
+Date Prescribed: 02/20/2026
+
+Medications Prescribed:
+
+1. Amoxicillin 875 mg tablets
+   Take one tablet by mouth twice daily for 10 days.
+   Indication: Bacterial sinus infection.
+
+2. Ibuprofen 600 mg tablets
+   Take one tablet by mouth every 6 hours as needed for pain.
+   Do not exceed 2400 mg per day.
+   Take with food.
+
+3. Benzonatate 100 mg capsules
+   Take one capsule by mouth three times daily as needed for cough.
+
+Refills: None
+Pharmacy: CVS Pharmacy

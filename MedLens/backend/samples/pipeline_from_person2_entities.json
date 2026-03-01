@@ -1,0 +1,17 @@
+{
+  "documentId": "doc-ai-entities",
+  "readingLevel": "grade6",
+  "language": "en",
+  "simplifiedSummary": "Medication summary from AI.",
+  "actionItems": [
+    {"text": "Follow up with clinician", "priority": "medium", "due": null}
+  ],
+  "aiResult": {
+    "entities": {
+      "medications": [
+        {"name": "Warfarin"},
+        {"drug": "Ibuprofen"}
+      ]
+    }
+  }
+}

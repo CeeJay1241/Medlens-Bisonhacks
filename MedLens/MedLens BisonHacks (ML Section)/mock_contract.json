@@ -1,0 +1,32 @@
+{
+  "rawText": "...",
+  "ocrConfidence": null,
+  "readingLevel": "simple",
+  "summary": "You were seen for diabetes and high blood pressure. You need to take three medicines and see your doctor again in two weeks.",
+  "medications": [
+    {
+      "name": "Metformin",
+      "dosage": "500mg",
+      "frequency": "twice a day with meals",
+      "purpose": "Helps control blood sugar",
+      "warnings": ""
+    }
+  ],
+  "diagnoses": [
+    {
+      "name": "Type 2 Diabetes",
+      "plain_language": "Your body has trouble managing blood sugar"
+    }
+  ],
+  "action_items": [
+    "Take Metformin 500mg twice daily with meals",
+    "Check blood sugar every morning before eating",
+    "Follow up with Dr. Williams by March 7"
+  ],
+  "dates": [
+    { "event": "Follow-up appointment", "date": "March 7, 2026" }
+  ],
+  "warnings": [
+    "Go to the ER if you have chest pain, severe headache, or blood sugar over 400"
+  ]
+}

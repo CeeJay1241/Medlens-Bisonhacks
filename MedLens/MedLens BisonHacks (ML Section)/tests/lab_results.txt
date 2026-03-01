@@ -1,0 +1,22 @@
+LABORATORY RESULTS
+Patient Name: Maria Gonzalez
+DOB: 08/12/1978
+Collection Date: 02/18/2026
+Ordering Provider: Dr. Patel
+
+TEST RESULTS:
+
+Complete Blood Count (CBC):
+- White Blood Cell Count (WBC): 13.2 x10^3/uL (Reference: 4.0–11.0) HIGH
+- Hemoglobin: 11.1 g/dL (Reference: 12.0–16.0) LOW
+- Hematocrit: 33.8% (Reference: 36–46%) LOW
+- Platelets: 250 x10^3/uL (Reference: 150–400)
+
+Basic Metabolic Panel (BMP):
+- Sodium: 138 mmol/L (Reference: 135–145)
+- Potassium: 4.9 mmol/L (Reference: 3.5–5.1)
+- Glucose (fasting): 162 mg/dL (Reference: 70–99) HIGH
+- Creatinine: 1.3 mg/dL (Reference: 0.6–1.2) SLIGHTLY HIGH
+
+Comments:
+Elevated glucose suggests poor glycemic control. Recommend follow-up with primary care provider.

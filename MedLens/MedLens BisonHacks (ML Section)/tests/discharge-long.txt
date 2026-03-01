@@ -1,0 +1,47 @@
+HOSPITAL DISCHARGE SUMMARY
+
+Patient Name: Robert Thompson
+DOB: 05/22/1958
+Medical Record Number: 4829173
+Admission Date: 02/10/2026
+Discharge Date: 02/18/2026
+Attending Physician: Dr. Elena Martinez
+
+REASON FOR ADMISSION:
+Patient admitted for shortness of breath, productive cough, and fever.
+
+HOSPITAL COURSE:
+Patient diagnosed with community-acquired pneumonia and acute exacerbation of chronic heart failure. Chest X-ray showed right lower lobe infiltrate. Treated with IV antibiotics and diuretics with gradual improvement. Oxygen requirement decreased over hospital stay.
+
+DIAGNOSES:
+1. Community-acquired pneumonia
+2. Congestive heart failure, acute exacerbation
+3. Type 2 Diabetes Mellitus
+4. Hypertension
+
+PROCEDURES:
+- Chest X-ray
+- Echocardiogram showing EF 40%
+
+DISCHARGE MEDICATIONS:
+- Levofloxacin 750 mg PO daily x5 days
+- Furosemide 40 mg PO daily
+- Metformin 500 mg PO BID with meals
+- Lisinopril 20 mg PO daily
+- Insulin glargine 20 units subcutaneous nightly
+
+DISCHARGE INSTRUCTIONS:
+- Complete full course of antibiotics
+- Monitor daily weight; call provider if weight increases more than 2 lbs in 24 hours
+- Low sodium, diabetic diet
+- Check blood glucose before meals and at bedtime
+
+FOLLOW-UP APPOINTMENTS:
+- Cardiology follow-up with Dr. Chen on March 3, 2026
+- Primary care follow-up within 1 week of discharge
+
+RETURN TO ER IF:
+- Worsening shortness of breath
+- Chest pain
+- Fever greater than 101.5°F
+- Blood sugar consistently above 400 mg/dL

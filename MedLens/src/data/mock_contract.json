@@ -1,0 +1,60 @@
+{
+    "readingLevel": "standard",
+    "summary": {
+        "simple": "John Doe is leaving the hospital today. He has high blood sugar and high blood pressure. He needs to take his pills and follow the doctor's rules to stay well.",
+        "standard": "This document is about John Doe's discharge from the hospital. He has diabetes and high blood pressure. He needs to take some medications and follow certain instructions to stay healthy.",
+        "detailed": "Patient John Doe is being discharged following management of Type 2 Diabetes Mellitus and Hypertension. The discharge plan requires adherence to a multi-medication regimen and specific lifestyle modifications to maintain metabolic stability and cardiovascular health."
+    },
+    "medications": [
+        {
+            "name": "Metformin",
+            "dosage": "500mg",
+            "frequency": "twice a day with meals",
+            "purpose": "helps control blood sugar levels",
+            "warnings": ""
+        },
+        {
+            "name": "Lisinopril",
+            "dosage": "10mg",
+            "frequency": "once a day",
+            "purpose": "helps lower blood pressure",
+            "warnings": ""
+        },
+        {
+            "name": "Aspirin",
+            "dosage": "81mg",
+            "frequency": "once a day",
+            "purpose": "helps prevent heart problems",
+            "warnings": ""
+        }
+    ],
+    "diagnoses": [
+        {
+            "name": "Type 2 Diabetes Mellitus",
+            "plain_language": "This means the body has trouble using sugar for energy, which can lead to high blood sugar."
+        },
+        {
+            "name": "Hypertension",
+            "plain_language": "This means high blood pressure, which can cause health problems if not treated."
+        }
+    ],
+    "action_items": [
+        "Monitor blood glucose levels daily before breakfast",
+        "Follow up with Dr. Williams in 2 weeks",
+        "Follow a low sodium diet",
+        "Return to ER if experiencing chest pain, severe headache, or blood glucose over 400mg/dL"
+    ],
+    "dates": [
+        {
+            "event": "Date of Discharge",
+            "date": "02/21/2026"
+        },
+        {
+            "event": "Follow-up appointment with Dr. Williams",
+            "date": "March 7, 2026 at 10:00 AM"
+        }
+    ],
+    "warnings": [
+        "Return to ER if experiencing chest pain, severe headache, or blood glucose >400mg/dL"
+    ]
+}

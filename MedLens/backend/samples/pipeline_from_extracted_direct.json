@@ -1,0 +1,14 @@
+{
+  "documentId": "doc-extracted-direct",
+  "readingLevel": "grade6",
+  "language": "en",
+  "extracted": {
+    "medications": ["warfarin", "ibuprofen"],
+    "conditions": ["hypertension"],
+    "instructions": ["take with food"]
+  },
+  "simplifiedSummary": "You are taking warfarin and ibuprofen.",
+  "actionItems": [
+    {"text": "Call your doctor if bleeding occurs", "priority": "high", "due": null}
+  ]
+}
